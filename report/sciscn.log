@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.29)  29 DEC 2021 21:24
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.29)  2 JAN 2022 00:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -813,21 +813,21 @@ LaTeX Info: Redefining \nameref on input line 19.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 63.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 64.
  (c:/texlive/2021/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 63.
+(Font)              size <10.95> substituted on input line 64.
 
 
 Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
@@ -866,7 +866,7 @@ Package fontspec Info: Font family 'FandolKai-Regular(0)' created for font
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <7.52812> not available
-(Font)              size <8> substituted on input line 63.
+(Font)              size <8> substituted on input line 64.
 
 
 Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
@@ -888,7 +888,7 @@ Package fontspec Info: Font family 'FandolSong-Regular(1)' created for font
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 
-Overfull \hbox (5.74042pt too wide) in paragraph at lines 63--63
+Overfull \hbox (5.74042pt too wide) in paragraph at lines 64--64
  []
  []
 
@@ -911,16 +911,20 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 [1
 
 ]
-Overfull \hbox (6.08847pt too wide) in paragraph at lines 131--132
-|  [] 
- []
-
-
-AED: lastpage setting LastPage
-
 Overfull \vbox (1.3896pt too high) has occurred while \output is active []
 
  [2]
+Overfull \vbox (1.56123pt too high) has occurred while \output is active []
+
+ [3]
+Overfull \vbox (1.3896pt too high) has occurred while \output is active []
+
+ [4] 
+AED: lastpage setting LastPage
+
+Overfull \vbox (1.56123pt too high) has occurred while \output is active []
+
+ [5]
 
 Package caption Warning: Unused \captionsetup[subfloat] on input line 553.
 See the caption package documentation for explanation.
@@ -943,15 +947,15 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
 Package rerunfilecheck Info: File `sciscn.out' has not changed.
-(rerunfilecheck)             Checksum: BD3536DB006C3CC90200D34B74868B36;253.
+(rerunfilecheck)             Checksum: 871133BD213DDF0CED074FC1FE67E6DC;1495.
  ) 
 Here is how much of TeX's memory you used:
- 18296 strings out of 478866
- 376251 string characters out of 5865578
- 723234 words of memory out of 5000000
- 37800 multiletter control sequences out of 15000+600000
- 418157 words of font info for 130 fonts, out of 8000000 for 9000
+ 18368 strings out of 478866
+ 381960 string characters out of 5865578
+ 728647 words of memory out of 5000000
+ 37876 multiletter control sequences out of 15000+600000
+ 418141 words of font info for 128 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  115i,10n,118p,1197b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on sciscn.pdf (2 pages).
+Output written on sciscn.pdf (5 pages).
